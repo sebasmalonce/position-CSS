@@ -1,0 +1,27 @@
+#contenedor {
+    height: 640px;
+    width: 100%;
+    background-color: papayawhip;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#gato {
+    width: 600px;
+    position: relative;
+}
+
+#viñeta {
+    position: absolute;
+    width: 320px;
+    top: 20px;
+    left: 320px;
+}
+
+#sueño {
+    width: 180px;
+    position: absolute;
+    top: 70px;
+    left: 390px;    
+}
